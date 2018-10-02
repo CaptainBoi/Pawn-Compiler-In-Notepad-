@@ -13,3 +13,12 @@
 <b>Again open the same directory</b> (Directory: %appdata%/notepad++/plugins)<br>
 <b>Copy/paste the config folder.</b> (Config Folder)<br>
 <b>Open notepad++ as administrator and follow screenshots.</b>
+
+<img src="https://i.imgur.com/pPHsgcb.png"></img><br>
+<img src="https://i.imgur.com/dJ7gYGc.png"></img><br>
+<img src="https://i.imgur.com/RK60s8s.png"></img><br>
+<img src="https://i.imgur.com/0ewhjZn.png"></img><br>
+<img src="https://i.imgur.com/wVyNcdH.png"></img><br>
+<img src="https://i.imgur.com/SQ4Qq4U.png"></img><br>
+<img src="https://i.imgur.com/Rvfm4OS.png"></img><br>
+<img src="https://i.imgur.com/pkCQrPr.png"></img><br>
